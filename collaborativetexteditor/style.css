@@ -1,0 +1,28 @@
+body {
+  background-image: url('https://wallpapers.com/images/high/https://manybackgrounds.com/images/hd/overlapping-fine-neon-green-matrix-dvfxd08moa4d5hy8.jpg-neon-green-matrix-g26ua7n10dp49h56.webp'); /* Correct image URL */
+  background-size: cover; /* Ensures the background covers the entire screen */
+  background-position: center; /* Centers the background image */
+  background-attachment: fixed; /* Prevents the background from scrolling */
+  color: #00ff00; /* Sets the text color to neon green */
+  font-family: Arial, sans-serif;  /* Font type removed */
+  padding: 0;
+  margin: 0;
+  height: 100vh; /* Makes the height full screen */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#editor {
+  width: 80%;
+  height: 70%;
+  font-size: 18px;
+  line-height: 1.6;
+  background-color: rgba(0, 0, 0, 0.7); /* Sets the background to black */
+  color: #00ff00; /* Neon green text color */
+  border: none;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.5); /* Neon effect */
+  resize: none; /* Prevents resizing */
+}
