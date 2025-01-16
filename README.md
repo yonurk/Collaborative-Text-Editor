@@ -50,7 +50,7 @@ This is a real-time collaborative text editor built using Firebase Realtime Data
 
 
 </br>   
-![](https://github.com/yonurk/Collaborative-Text-Editor/blob/1e79c9d52edd4f682587e78ac90a5c26410ef1a7/collaborativetexteditor/image)
+![](https://github.com/yonurk/Collaborative-Text-Editor/blob/1e79c9d52edd4f682587e78ac90a5c26410ef1a7/collaborativetexteditor/image.jpeg)
 <br>  
 
 </br>   
