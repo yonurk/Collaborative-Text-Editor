@@ -36,13 +36,11 @@ This is a real-time collaborative text editor built using Firebase Realtime Data
    Open the Firebase-hosted URL to access your collaborative text editor.
    <br>  
 
-
 </br>
    Link to access: https://collaborativetexteditor-24d04.web.app/
 
 
 <br>  
-
 
 </br>   
    
@@ -69,9 +67,9 @@ This is a real-time collaborative text editor built using Firebase Realtime Data
 Enjoy collaborating with your friends and colleagues in real-time!
 
 Team members:
+<br>  
+</br>
 Yusuf Koca
 <br>  
-
-
 </br>
 Kamal Azizov
