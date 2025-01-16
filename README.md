@@ -67,9 +67,9 @@ This is a real-time collaborative text editor built using Firebase Realtime Data
 Enjoy collaborating with your friends and colleagues in real-time!
 
 Team members:
-<br>  
-</br>
+<pre>  
+</pre>
 Yusuf Koca
-<br>  
-</br>
+<pre>  
+</pre>
 Kamal Azizov
