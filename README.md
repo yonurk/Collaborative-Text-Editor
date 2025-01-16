@@ -46,10 +46,7 @@ This is a real-time collaborative text editor built using Firebase Realtime Data
    
 ![](https://github.com/yonurk/Collaborative-Text-Editor/blob/925f4fd710d7711570f7922cb672bf6865f26e28/collaborativetexteditor/text%20editor.gif)
 
-<br>  
 
-
-</br>   
 ![](https://github.com/yonurk/Collaborative-Text-Editor/blob/5e081b8c294104e4aada99a9177fcb09dce939fe/collaborativetexteditor/image.jpeg)
 <br>  
 
