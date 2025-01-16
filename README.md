@@ -37,7 +37,7 @@ This is a real-time collaborative text editor built using Firebase Realtime Data
    Link to access: https://collaborativetexteditor-24d04.web.app/
 
    
-collaborativetexteditor/text editor.gif
+https://github.com/yonurk/Collaborative-Text-Editor/blob/925f4fd710d7711570f7922cb672bf6865f26e28/collaborativetexteditor/text%20editor.gif
 
 ## How to Use
 
