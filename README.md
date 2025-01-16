@@ -36,6 +36,9 @@ This is a real-time collaborative text editor built using Firebase Realtime Data
    Open the Firebase-hosted URL to access your collaborative text editor.
    Link to access: https://collaborativetexteditor-24d04.web.app/
 
+   
+collaborativetexteditor/text editor.gif
+
 ## How to Use
 
 - Open the editor in a browser.
