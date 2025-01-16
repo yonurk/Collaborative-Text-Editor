@@ -1,0 +1,51 @@
+
+# Collaborative Online Text Editor
+
+This is a real-time collaborative text editor built using Firebase Realtime Database. It allows multiple users to edit text simultaneously and see changes in real-time. The editor has a sleek design inspired by the "Matrix" theme.
+
+## Features
+
+- **Real-Time Collaboration**: Synchronize text changes across multiple users instantly.
+- **Matrix-Inspired Design**: Neon green text on a dark background with a "Matrix"-like aesthetic.
+- **Firebase Integration**: All changes are saved to and loaded from Firebase Realtime Database.
+
+## Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone <repository-url>
+   cd Collaborative-Text-Editor
+   ```
+
+2. **Install Firebase CLI**
+   Download and install Firebase CLI from [Firebase CLI Documentation](https://firebase.google.com/docs/cli).
+
+3. **Initialize Firebase**
+   ```bash
+   firebase init
+   ```
+   - Choose your Firebase project.
+   - Select "Hosting" and configure the public directory as `public`.
+
+4. **Deploy to Firebase**
+   ```bash
+   firebase deploy
+   ```
+
+5. **Access the App**
+   Open the Firebase-hosted URL to access your collaborative text editor.
+   Link to access: https://collaborativetexteditor-24d04.web.app/
+
+## How to Use
+
+- Open the editor in a browser.
+- Start typing in the text area to see real-time updates shared across connected users.
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Firebase Realtime Database
+
+---
+
+Enjoy collaborating with your friends and colleagues in real-time!
